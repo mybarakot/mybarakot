@@ -33,13 +33,6 @@ Kitobni sevasizmi va auditoriyangiz bormi? Har oyda tanlangan kitoblar sizga bep
 
 👉 [Ariza qoldiring](https://ambassador.barakot.uz)
 
-## Texnologiyalar
-
-- **Web:** Next.js, TypeScript, Docker
-- **Mobil:** React Native (Expo), Firebase
-- **Admin:** Backend + frontend monorepo, Docker Compose
-- **Tillar:** oʻzbek (lotin va kirill), rus, ingliz
-
 ## Aloqa
 
 - Telegram kanal: [@mybarakot](https://t.me/mybarakot)
