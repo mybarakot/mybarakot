@@ -1,20 +1,47 @@
-# Hi there 👋
+<h1 align="center">Barakot</h1>
 
-Welcome to my GitHub profile! I'm a passionate developer dedicated to building clean, scalable solutions.
+<p align="center">
+  Oʻzbekistondagi onlayn kitob doʻkoni — kitoblar, yetkazib berish va kitobsevarlar hamjamiyati.<br>
+  <sub>Online bookstore in Uzbekistan — books, delivery, and a community of readers.</sub>
+</p>
 
-## 🚀 About Me
-- 🔭 I'm currently working on interesting projects that solve real-world problems
-- 🌱 I'm continuously learning new technologies and best practices
-- 👯 I'm open to collaborating on innovative projects
-- 💬 Ask me about software development, coding practices, and tech
-- 📫 How to reach me: Connect with me on GitHub or through my projects
-- ⚡ Fun fact: I love exploring new programming paradigms and sharing knowledge with the community
+<p align="center">
+  <a href="https://barakot.uz">barakot.uz</a> ·
+  <a href="https://ambassador.barakot.uz">Ambassador dasturi</a> ·
+  <a href="https://t.me/mybarakot">Telegram kanal</a> ·
+  <a href="https://t.me/mybarakot_qabulxonasi">Qabulxona</a>
+</p>
 
-## 🛠️ Tech Stack
-I work with a variety of languages and tools, always eager to learn and adapt to project needs.
+---
 
-## 📈 What I'm Working On
-Check out my repositories to see what I'm currently building and contributing to!
+## Biz nima qilamiz
 
-## 🤝 Let's Connect
-Feel free to reach out, open issues, or submit pull requests on my projects. I believe in collaborative development and continuous improvement.
+Barakot — kitob savdosi bilan shugʻullanuvchi kompaniya. Biz kitoblarni onlayn doʻkon, mobil ilova va filiallar orqali sotamiz, butun Oʻzbekiston boʻylab yetkazib beramiz va kitob oʻquvchilar hamjamiyatini rivojlantiramiz.
+
+## Mahsulotlarimiz
+
+| Mahsulot | Tavsif |
+|---|---|
+| **Onlayn doʻkon** | [barakot.uz](https://barakot.uz) — katalog, mualliflar, buyurtma va yetkazib berish |
+| **Mobil ilova** | iOS va Android uchun Barakot ilovasi |
+| **Admin tizimi** | Ombor, filial, savdo, taʼminot va moliya jarayonlarini boshqaruvchi ichki platforma |
+| **Ambassador dasturi** | Kitob bloggerlari uchun barter asosidagi hamkorlik — [ambassador.barakot.uz](https://ambassador.barakot.uz) |
+
+## Ambassador dasturi
+
+Kitobni sevasizmi va auditoriyangiz bormi? Har oyda tanlangan kitoblar sizga bepul yuboriladi, siz esa ularni oʻz uslubingizda taqdim etasiz. Eksklyuziv tadbirlar, yangi chiqimlar va hamkorlik sertifikati — faqat ambassadorlar uchun.
+
+👉 [Ariza qoldiring](https://ambassador.barakot.uz)
+
+## Texnologiyalar
+
+- **Web:** Next.js, TypeScript, Docker
+- **Mobil:** React Native (Expo), Firebase
+- **Admin:** Backend + frontend monorepo, Docker Compose
+- **Tillar:** oʻzbek (lotin va kirill), rus, ingliz
+
+## Aloqa
+
+- Telegram kanal: [@mybarakot](https://t.me/mybarakot)
+- Qabulxona: [@mybarakot_qabulxonasi](https://t.me/mybarakot_qabulxonasi)
+- Sayt: [barakot.uz](https://barakot.uz)
