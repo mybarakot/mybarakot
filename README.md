@@ -24,7 +24,6 @@ Barakot — kitob savdosi bilan shugʻullanuvchi kompaniya. Biz kitoblarni onlay
 |---|---|
 | **Onlayn doʻkon** | [barakot.uz](https://barakot.uz) — katalog, mualliflar, buyurtma va yetkazib berish |
 | **Mobil ilova** | iOS va Android uchun Barakot ilovasi |
-| **Admin tizimi** | Ombor, filial, savdo, taʼminot va moliya jarayonlarini boshqaruvchi ichki platforma |
 | **Ambassador dasturi** | Kitob bloggerlari uchun barter asosidagi hamkorlik — [ambassador.barakot.uz](https://ambassador.barakot.uz) |
 
 ## Ambassador dasturi
