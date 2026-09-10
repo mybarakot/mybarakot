@@ -9,7 +9,7 @@
   <a href="https://barakot.uz">barakot.uz</a> ·
   <a href="https://ambassador.barakot.uz">Ambassador dasturi</a> ·
   <a href="https://t.me/mybarakot">Telegram kanal</a> ·
-  <a href="https://t.me/mybarakot_qabulxonasi">Qabulxona</a>
+  <a href="https://t.me/mybarakot_admin">Qabulxona</a>
 </p>
 
 ---
@@ -35,5 +35,5 @@ Kitobni sevasizmi va auditoriyangiz bormi? Har oyda tanlangan kitoblar sizga bep
 ## Aloqa
 
 - Telegram kanal: [@mybarakot](https://t.me/mybarakot)
-- Qabulxona: [@mybarakot_qabulxonasi](https://t.me/mybarakot_qabulxonasi)
+- Qabulxona: [@mybarakot_admin](https://t.me/mybarakot_admin)
 - Sayt: [barakot.uz](https://barakot.uz)
